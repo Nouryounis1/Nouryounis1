@@ -1,7 +1,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" />
 
-## Hey there, I'm [Nour Younis!]  👋 <a align="left"> <img src="https://komarev.com/ghpvc/?username=danishulhassan7&label=Views&color=blue&style=plastic" alt="danishulhassan7" /> </a>
+## Hey there, I'm [Nour Younis!]  👋 <a align="left"> <img src="https://komarev.com/ghpvc/?username=danishulhassan7&label=Views&color=blue&style=plastic"  /> </a>
 
 
 Hi there, I'm Nour Younis Mobile computing and Mobile App Development student and I'm currently learning Dart-Flutter and Data Analytics. And my deep interest is in the field of Development (Android Apps) and Data Analysis. Creating new things and approach them with some new tactics. 
