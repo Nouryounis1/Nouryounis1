@@ -8,7 +8,7 @@ Hi there, I'm Nour Younis Mobile computing and Mobile App Development student an
 
 Problem-solving enthusiast | Analytical thinker who loves DATA!
 <br/> 
-<br/> 
+<br/>  
 Ask me anything about...
 
 <img src='https://img.shields.io/badge/kotlin-%230095D5?logo=kotlin&logoColor=blue&style=for-the-badge' height='25'/> <img src='https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge' height='25'/> <img src='https://img.shields.io/badge/dart-%230095D5.svg?&style=for-the-badge&logo=dart&logoColor=white' height='25'/> <img src='https://img.shields.io/badge/Flutter-%230095D5.svg?&style=for-the-badge&logo=Flutter&logoColor=white' height='25'/> <img src='https://img.shields.io/badge/HTML-%230095D5?logo=HTML&logoColor=blue&style=for-the-badge' height='25'/> <img src='https://img.shields.io/badge/css-%230095D5?logo=css&logoColor=blue&style=for-the-badge' height='25'/>
