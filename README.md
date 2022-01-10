@@ -7,7 +7,7 @@
 Hi there, I'm Nour Younis Mobile computing and Mobile App Development student and I'm currently learning Dart-Flutter and Data Analytics. And my deep interest is in the field of Development (Android Apps) and Data Analysis. Creating new things and approach them with some new tactics. 
 
 Problem-solving enthusiast | Analytical thinker who loves DATA!
-<br/> 
+<br/>  
 <br/>  
 Ask me anything about... 
 
