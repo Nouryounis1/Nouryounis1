@@ -85,11 +85,7 @@ I'm a freelance software engineer with **6+ years** of experience shipping mobil
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nouryounis1&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nouryounis1&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
+ 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Nouryounis1&theme=github-dark-blue&hide_border=true"/>
 </p>
@@ -98,13 +94,7 @@ I'm a freelance software engineer with **6+ years** of experience shipping mobil
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nouryounis1&theme=github-dark&hide_border=true"/>
 </p>
 
----
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Nouryounis1&theme=algolia&no-frame=true&row=1&column=6" alt="trophies"/>
-</p>
 
 ---
 
