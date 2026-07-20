@@ -1,12 +1,14 @@
-<h1 align="center">Hi, I'm Nour Younis 👋</h1>
-<h3 align="center">Mobile • AI • Full-Stack Engineer</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0175C2,100:00D9FF&height=220&section=header&text=Nour%20Younis&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mobile%20%E2%80%A2%20AI%20%E2%80%A2%20Full-Stack%20Engineer&descAlignY=55&descSize=22" alt="header banner"/>
+</p>
 
 <p align="center">
-Building modern mobile and web applications with <b>Flutter</b>, <b>React</b>, <b>Next.js</b>, and <b>AI</b>.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=0175C2&center=true&vCenter=true&width=600&lines=Building+with+Flutter+%26+Android;Shipping+AI-powered+products;Next.js+%2B+TypeScript+%2B+Python;6%2B+years+freelancing+on+Mostaql" alt="typing svg"/>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nouryounis1&label=Profile%20Views&color=0175C2&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Nouryounis1?label=Followers&style=flat&color=0175C2" alt="followers"/>
 </p>
 
 ---
@@ -98,6 +100,14 @@ I'm a freelance software engineer with **6+ years** of experience shipping mobil
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Nouryounis1&theme=algolia&no-frame=true&row=1&column=6" alt="trophies"/>
+</p>
+
+---
+
 ## 🌱 Currently Learning
 
 `AI Agents` · `MCP` · `Advanced Next.js` · `Cloud Architecture` · `AI Workflows` · `Edge Computing`
@@ -113,3 +123,7 @@ I'm a freelance software engineer with **6+ years** of experience shipping mobil
 </p>
 
 <p align="center"><b>Building scalable Mobile, Web & AI products.</b></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0175C2&height=120&section=footer" alt="footer wave"/>
+</p>
