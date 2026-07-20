@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=0175C2&center=true&vCenter=true&width=600&lines=Building+with+Flutter+%26+Android;Shipping+AI-powered+products;Next.js+%2B+TypeScript+%2B+Python;6%2B+years+freelancing+on+Mostaql" alt="typing svg"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=0175C2&center=true&vCenter=true&width=600&lines=Building+with+Flutter+%26+Android;Shipping+AI-powered+products;Next.js+%2B+TypeScript+%2B+Python;6%2B+years+freelancing" alt="typing svg"/>
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-I'm a freelance software engineer with **6+ years** of experience shipping mobile and web products — from client work on **Mostaql** to independent SaaS builds. I care about clean architecture, fast iteration, and products that actually ship rather than sit in a backlog.
+I'm a freelance software engineer with **6+ years** of experience shipping mobile and web products — from client work on to independent SaaS builds. I care about clean architecture, fast iteration, and products that actually ship rather than sit in a backlog.
 
 - 📱 Cross-platform mobile development (Flutter & native Android)
 - 🤖 AI-powered applications and workflows
@@ -104,6 +104,14 @@ I'm a freelance software engineer with **6+ years** of experience shipping mobil
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Nouryounis1&theme=algolia&no-frame=true&row=1&column=6" alt="trophies"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Nouryounis1/Nouryounis1/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
 
 ---
