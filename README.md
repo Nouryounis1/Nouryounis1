@@ -72,14 +72,12 @@ I'm a freelance software engineer with **6+ years** of experience shipping mobil
 ### 📱 Mobile
 **Multi-App Flutter Platform** — a user, marketer, and driver app sharing one `shared_ui` package in a Melos monorepo. Built for scale from day one.
 
-### 🌍 Web
-**[Chit](https://chit-nine.vercel.app)** — a free bilingual (EN/AR) invoice generator built in Next.js, deployed on Vercel, monetized via AdSense.
+### 🌐 Web & SaaS
+**[Sirkits](http://sirkits.com/)** — an enterprise WAN cost intelligence platform that turns raw network telemetry into financial decisions: real-time circuit monitoring, billing-accuracy checks, and upgrade/downgrade recommendations backed by cost modeling.
 
-### ✍️ Content
-**[AI Stacked](https://aistackedhq.blogspot.com)** — a blog covering AI tools for small businesses and builders.
+**[Tahwool AI](https://ai-chatbot.tahwool.com/)** — an Arabic, Saudi-dialect AI chat assistant for government entities, answering site visitors from official content only (RAG-based), hosted entirely within Saudi Arabia in line with NCA and PDPL requirements.
 
-### 🎮 Game Dev
-An indie web game in scoping — solo, zero-budget, built in Godot and exported to itch.io / CrazyGames / Poki.
+**[Thonlab](https://thonlab.com/ar)** — a Saudi hackathon management platform covering the full event lifecycle, from team registration and judging to digital certificates, built for government and private-sector innovation challenges.
 
 ---
 
